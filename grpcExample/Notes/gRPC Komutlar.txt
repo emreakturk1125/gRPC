@@ -1,0 +1,25 @@
+
+PROJE OLUŞTURMAK İÇİN
+------------------------------------
+
+-> dotnet new grpc --name grpcServer
+
+
+-> dotnet new console --name grpcClient
+
+   grpcClient için yüklenmesi gereken kütüphaneler;
+
+     * Google.Protobuf =>  serialize ve deserialize işlemleri yapan kütüphanesi kütüphanesi (dotnet add package Google.Protobuf --version 3.21.1)
+     * Grpc.Net.Client => .Net mimarisine uygun gRPC kütüphanesidir. (dotnet add package Grpc.Net.Client --version 2.46.0)
+     * Grpc.Tools      => Proto dosyalarını derlemek için gerekli compiler ve diğer aracları içeren kütüphanedir. (dotnet add package Grpc.Tools --version 2.46.3)
+
+
+-> CLient uygulamasının build edilmesi yeterli, otomatik class lar oluşacak
+
+   * Dotnet build
+
+
+   PROJELERIN ÇALIŞTIRILMALARI İÇİN
+   ----------------------------------------
+   -> grpcServer da bulunan proto dosyasının aynısı  grcpClient'da da  olmalıdır. BUild edince kullanılacak class'ın otomatik oluşması için
+   -> Önce grpcServer, sonra grpcClient terminalde çalıştırılmalıdır.

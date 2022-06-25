@@ -1,0 +1,22 @@
+
+-------------------- Servisler Arası İletişim ---------------------
+
+1. Mesaj Kuyruğu (Message Queues) ile Olay Güdümlü Mimari (Event Driven Architecture)
+
+    * Bu yaklaşım, mikroservisler arası haberleşme yöntemi olarak kullanıldığında, genellikle event driven mimari kurgulamak için tercih edilir.
+
+    * Event Driven mimari, bir birleriyle haberleşmesi gereken servislerin dağıtık sistemde, event fırlatarak ve bu event’i handle ederek süreci tamamlayabilmesini amaçlamaktadır. Servisler arası event’ler merkezi bir Event Bus ile gerçekleştirilir. Bu mimarideki event bus aracı olarak message queue’lar tercih edilirler. Servislerin bu bus’a pub/sub ile bağlı kalarak her bir event fırlatıldığında haberdar olması ve handle edebilmesi sağlanır. Tüm event trafiği bu bus üzerinden geçecektir. 
+
+    * Bu mimaride dikkat edilmesi gereken nokta; sistemin Event Bus’a bağımlı olmasıdır. Event Bus’da meydana gelecek bir kesinti durumunda, 
+transaction bütünlüğü kaybolabilir ve servisler arası iletişim kopabilir. Event driven mimariyi kurgularken farklı pattern’lardan da yararlanabilirsiniz. Örneğin, SAGA veya yaygın kullanımı olan Event Sourcing paternleri incelenebilir.
+
+
+2. İstek Tabanlı Mimari (Request Driven Architecture)
+
+    *  Bu mimari farklı teknolojiler kullanılarak tasarlanılabilir, örneğin Rest veya RPC (Remote Procedure Call).
+    *  Bu mimaride rest tercih edildiğinde, servisler; bazı end point’lere sahip olurlar. Bir birleriyle haberleşirken bu end-point’lere http istek  yapılır.
+    *  RPC ile bir mimari kullanıldığında Google tarafından geliştirilen gRPC’tercih edilmektedir. veri trafiği binary olarak gerçekleştirilebilir.
+
+3.) Mesaj Tabanlı Mimari (Message Driven Architecture)
+
+    *  Bu mimari, Olay Güdümlü (Event Driven) Mimariye oldukça benzemektedir. Platform bir Pub/Sub yapısı üzerine inşaa edilir ve servisler birbirleri ile mesajlar ile haberleşir. Bu mimaride event’lerin yerine mesajlar ve notification’lar almıştır.

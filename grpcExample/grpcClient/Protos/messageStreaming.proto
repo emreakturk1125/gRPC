@@ -1,0 +1,20 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "grpcMessageClientStreaming"; 
+
+package streaming;
+
+ // Server Streaming türünde bir imzadır. tek bir istek gönderilir ve birden fazla response alınır
+service MessageStreaming {
+ 
+  rpc SendMessage (MessageStreamingRequest) returns (stream MessageStreamingResponse); 
+}
+ 
+message MessageStreamingRequest {
+  string name = 1;
+  string message = 2;
+}
+ 
+message MessageStreamingResponse {
+  string message = 1;
+}

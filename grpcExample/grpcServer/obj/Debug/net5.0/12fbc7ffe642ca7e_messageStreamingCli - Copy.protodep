@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/MessageStreamingCli - CopyGrpc.cs \
+obj\Debug\net5.0\Protos/MessageStreamingCliCopy.cs: Protos/messageStreamingCli - Copy.proto

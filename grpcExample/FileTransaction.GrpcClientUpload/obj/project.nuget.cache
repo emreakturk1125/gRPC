@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1giR0AsBM/Dc8a6wLjrZIvyS3gLPGOXbi9kh5wT4rmZCk4ppp5ty5C6wJqS/Q6VJ+ftA9Ku8jWtYDnxOdVLX4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aktur\\Documents\\GitHub\\gRPC\\grpcExample\\FileTransaction.GrpcClientUpload\\FileTransaction.GrpcClientUpload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktur\\.nuget\\packages\\google.protobuf\\3.21.1\\google.protobuf.3.21.1.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\grpc.core.api\\2.46.1\\grpc.core.api.2.46.1.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\grpc.net.client\\2.46.0\\grpc.net.client.2.46.0.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\grpc.net.common\\2.46.0\\grpc.net.common.2.46.0.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\grpc.tools\\2.46.3\\grpc.tools.2.46.3.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\aktur\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

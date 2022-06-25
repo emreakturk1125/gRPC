@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fb01dc2-a7c9-4650-b880-a7798f21eea1": {
+      "ProjectGuid": "9fb01dc2-a7c9-4650-b880-a7798f21eea1",
+      "DisplayName": "grpcServer",
+      "ColorIndex": 0
+    },
+    "ae999292-d8ae-4881-8382-9dd64c73447e": {
+      "ProjectGuid": "ae999292-d8ae-4881-8382-9dd64c73447e",
+      "DisplayName": "grpcClient",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ff00557d-7f94-4b1d-8f07-679ff3870ee3": {
+      "ProjectGuid": "ff00557d-7f94-4b1d-8f07-679ff3870ee3",
+      "DisplayName": "Notes",
+      "ColorIndex": 2
+    },
+    "80250599-7ea5-4361-89a3-f2bdc203dcfe": {
+      "ProjectGuid": "80250599-7ea5-4361-89a3-f2bdc203dcfe",
+      "DisplayName": "FileTransaction.GrpcClientDownload",
+      "ColorIndex": 3
+    },
+    "cdf412fe-2e28-4d9a-8132-1d064c2deda5": {
+      "ProjectGuid": "cdf412fe-2e28-4d9a-8132-1d064c2deda5",
+      "DisplayName": "FileTransaction.GrpcClientUpload",
+      "ColorIndex": 4
+    },
+    "c326a5d4-1447-4e9a-bf05-34ed087181e6": {
+      "ProjectGuid": "c326a5d4-1447-4e9a-bf05-34ed087181e6",
+      "DisplayName": "FileTransaction.GrpcServer",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

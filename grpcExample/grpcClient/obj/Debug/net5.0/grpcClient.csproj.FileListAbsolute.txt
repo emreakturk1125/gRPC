@@ -1,0 +1,87 @@
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.exe
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.deps.json
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.json
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.dev.json
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\ref\grpcClient.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.pdb
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfo.cs
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CopyComplete
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\ref\grpcClient.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.pdb
+D:\gRPC Example\grpcServer\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.genruntimeconfig.cache
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.exe
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.deps.json
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.json
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.dev.json
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\ref\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.pdb
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcExample\grpcClient\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.AssemblyReference.cache
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfo.cs
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CopyComplete
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\ref\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.pdb
+D:\gRPC Example\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.genruntimeconfig.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.exe
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.deps.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.dev.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\ref\grpcClient.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.pdb
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.AssemblyReference.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfoInputs.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfo.cs
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CoreCompileInputs.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CopyComplete
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\ref\grpcClient.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.pdb
+C:\Users\emre.akturk\Desktop\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.genruntimeconfig.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.exe
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.deps.json
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.json
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.runtimeconfig.dev.json
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\ref\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\grpcClient.pdb
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.AssemblyReference.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.AssemblyInfo.cs
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.csproj.CopyComplete
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\ref\grpcClient.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.pdb
+D:\gRPC Example\grpcExample\grpcExample\grpcClient\obj\Debug\net5.0\grpcClient.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "grpcMessageServerStreamingBiDirect"; 
+
+package streaming;
+
+// Client Streaming; Birden fazla istek yapılıyor stream olarak ve tek bir response alınır
+
+service MessageStreamingBiDirect {
+ 
+  rpc SendMessage (stream MessageStreamingBiDirectRequest) returns (stream MessageStreamingBiDirectResponse); 
+}
+ 
+message MessageStreamingBiDirectRequest {
+  string name = 1;
+  string message = 2;
+}
+ 
+message MessageStreamingBiDirectResponse {
+  string message = 1;
+}

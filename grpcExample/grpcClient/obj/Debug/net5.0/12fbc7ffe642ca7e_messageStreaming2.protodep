@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/MessageStreaming2.cs \
+obj\Debug\net5.0\Protos/MessageStreaming2Grpc.cs: Protos/messageStreaming2.proto

@@ -1,0 +1,44 @@
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.exe
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.deps.json
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.runtimeconfig.json
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.runtimeconfig.dev.json
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\ref\FileTransaction.GrpcClientDownload.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.pdb
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.csproj.AssemblyReference.cache
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.AssemblyInfoInputs.cache
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.AssemblyInfo.cs
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.csproj.CoreCompileInputs.cache
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.csproj.CopyComplete
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\ref\FileTransaction.GrpcClientDownload.dll
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.pdb
+C:\Users\emre.akturk\Desktop\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.genruntimeconfig.cache
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.exe
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.deps.json
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.runtimeconfig.json
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.runtimeconfig.dev.json
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\ref\FileTransaction.GrpcClientDownload.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\FileTransaction.GrpcClientDownload.pdb
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.csproj.AssemblyReference.cache
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.AssemblyInfo.cs
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.csproj.CopyComplete
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\ref\FileTransaction.GrpcClientDownload.dll
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.pdb
+D:\gRPC Example\grpcExample\grpcExample\FileTransaction.GrpcClientDownload\obj\Debug\net5.0\FileTransaction.GrpcClientDownload.genruntimeconfig.cache

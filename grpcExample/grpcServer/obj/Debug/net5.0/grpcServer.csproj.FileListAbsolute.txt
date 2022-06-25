@@ -1,0 +1,120 @@
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.Development.json
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.json
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.exe
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.deps.json
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.json
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.dev.json
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\ref\grpcServer.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.pdb
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.AssemblyReference.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfo.cs
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\scopedcss\bundle\grpcServer.styles.css
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\staticwebassets\grpcServer.StaticWebAssets.Manifest.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.RazorTargetAssemblyInfo.cache
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CopyComplete
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\ref\grpcServer.dll
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.pdb
+D:\gRPC Example\grpcServer\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.genruntimeconfig.cache
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.Development.json
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.json
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.exe
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfo.cs
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\scopedcss\bundle\grpcServer.styles.css
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\staticwebassets\grpcServer.StaticWebAssets.Manifest.cache
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.RazorTargetAssemblyInfo.cache
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CopyComplete
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\ref\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.pdb
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.deps.json
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.json
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.dev.json
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\ref\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.pdb
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.genruntimeconfig.cache
+D:\gRPC Example\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.AssemblyReference.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.exe
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.deps.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.dev.json
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\ref\grpcServer.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.pdb
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.AssemblyReference.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfoInputs.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfo.cs
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CoreCompileInputs.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\scopedcss\bundle\grpcServer.styles.css
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\staticwebassets\grpcServer.StaticWebAssets.Manifest.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.RazorTargetAssemblyInfo.cache
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CopyComplete
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\ref\grpcServer.dll
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.pdb
+C:\Users\emre.akturk\Desktop\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.genruntimeconfig.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.Development.json
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\appsettings.json
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.exe
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.deps.json
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.json
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.runtimeconfig.dev.json
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\ref\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\grpcServer.pdb
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Google.Protobuf.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.AssemblyReference.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfoInputs.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.AssemblyInfo.cs
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CoreCompileInputs.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\scopedcss\bundle\grpcServer.styles.css
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\staticwebassets\grpcServer.StaticWebAssets.Manifest.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.RazorTargetAssemblyInfo.cache
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.csproj.CopyComplete
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\ref\grpcServer.dll
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.pdb
+D:\gRPC Example\grpcExample\grpcExample\grpcServer\obj\Debug\net5.0\grpcServer.genruntimeconfig.cache

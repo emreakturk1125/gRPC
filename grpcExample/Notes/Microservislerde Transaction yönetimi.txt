@@ -1,0 +1,9 @@
+
+---------------- SAGA PATTERN ---------------------
+
+Transaction senaryolarında, veri tutarlılığının sağlanabilmesi için önerilen çözümlerden biri olan Saga pattern’ dir
+
+
+Bu pattern’ın işlevsel mantığı ilk transaction dış bir etki ile(örneğin kullanıcı tarafından butona tıklama) tetiklendikten sonra, bir önceki servisteki transaction’ın başarılı olması durumuna göre bir sonraki servisteki transaction’ın tetiklenmesi ve bir silsile halinde bu şekilde diğer servisler üzerinde tetiklenmenin devam etmesi üzerinedir. Böylece geliştirilen proje her ne kadar microservice yaklaşımını benimsemiş olsa da yapılan bir operasyon neticesinde tüm servislerdeki datalar tutarlı bir şekilde işlenmiş olacaktır.
+
+Tabi süreçte transaction’lardan herhangi birinde oluşabilecek bir hata veya iş mantığı gereği iptal edilmesi gereken bir adım söz konusu olursa tüm süreç iptal edilecek ve işlenen transaction’lar tüm servislerde geri alınacaktır

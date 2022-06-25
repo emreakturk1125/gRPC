@@ -1,0 +1,18 @@
+﻿syntax = "proto3";
+
+ option csharp_namespace = "grpcServer"; 
+
+package greet;
+
+ // Unary türünde bir imzadır. Bir request'e bir response
+service Greeter { 
+  rpc SayHello (HelloRequest) returns (HelloReply);
+}
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloReply {
+  string message = 1;
+}

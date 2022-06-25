@@ -1,0 +1,2 @@
+obj\Debug\net5.0\Protos/MessageStreamingBiDirect.cs \
+obj\Debug\net5.0\Protos/MessageStreamingBiDirectGrpc.cs: Protos/messageStreamingBiDirect.proto
