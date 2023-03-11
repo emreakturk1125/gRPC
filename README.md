@@ -37,7 +37,7 @@
 -> gRPC de veri oluşturdıkça stream olarak parça parça, binary formatında gönderebilirsin (örneğin youtube videosu izleyebilmek içim tüm videonun yüklenmesine gerek yok parça parça yüklenir)<br>
 
 
-#------------------------ gRPC iletişim tipleri --------------------
+# ------------------------ gRPC iletişim tipleri --------------------
 
 -> Unary; tek bir istek gönderilir ve tek bir response   alınır<br>
 -> Server Streaming;  Server Streaming türünde bir imzadır. tek bir istek gönderilir ve birden fazla response alınır<br>
